@@ -1,0 +1,66 @@
+sphere
+105 30 0 30
+sphere
+165 30 0 30
+sphere
+225 30 0 30
+sphere
+285 30 0 30
+sphere
+345 30 0 30
+sphere
+405 30 0 30
+#
+sphere
+135 80 0 30
+sphere
+195 80 0 30
+sphere
+255 80 0 30
+sphere
+315 80 0 30
+sphere
+375 80 0 30
+#
+sphere
+165 130 0 30
+sphere
+225 130 0 30
+sphere
+285 130 0 30
+sphere
+345 130 0 30
+#
+sphere
+195 180 0 30
+sphere
+255 180 0 30
+sphere
+315 180 0 30
+#
+sphere
+225 230 0 30
+sphere
+285 230 0 30
+#
+sphere
+255 280 0 30
+#
+#the cup
+torus
+255 320 0 10 50
+#
+box
+105 0 0 330 30 30
+#
+ident
+rotate
+x 20
+rotate
+y 20
+move
+0 100 0
+apply
+display
+save
+pyramid.png
